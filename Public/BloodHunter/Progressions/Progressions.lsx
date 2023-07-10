@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="49"/>
+    <region id="Progressions">
+        <node id="root">
+            <children>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(BloodMaledict,1,0);Proficiency(SimpleWeapons);Proficiency(MartialWeapons);Proficiency(HeavyArmor);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(Shields);ProficiencyBonus(SavingThrow,Intelligence);ProficiencyBonus(SavingThrow,Dexterity)"/>
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="Name" type="LSString" value="Blood Hunter"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSkills(322974ff-d5ef-4379-b427-3077a2a0ad6c,3);AddSpells(96a31721-35e0-4ca3-89b8-e2b270ac0943,2,0,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="54265f8b-2621-4725-943f-967b795437af"/>
+                    <attribute id="UUID" type="guid" value="cd443c9b-d01e-4351-9ad4-a95381791b28"/>
+                    <children>
+                        <node id="SubClasses">
+                            <children>
+								<node id="SubClass">
+                                    <attribute id="Object" type="guid" value="c576f6ee-f32c-4a94-99d3-4b7c20073f06"/>
+                                </node>
+								<node id="SubClass">
+                                    <attribute id="Object" type="guid" value="fcfb6975-74e3-4a41-84d2-38cbb7a535e5"/>
+                                </node>
+							</children>
+                        </node>
+                    </children>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(BloodMaledict,1,0);ActionResource(SpellSlot,2,1)"/>
+                    <attribute id="Level" type="uint8" value="2"/>
+                    <attribute id="Name" type="LSString" value="Blood Hunter"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(9f3bf767-6574-40b8-ae9f-4f05ca5ae846,1);AddSpells(3099dce7-67d5-4424-b0ec-f01027659899,,,,AlwaysPrepared);AddSpells(96a31721-35e0-4ca3-89b8-e2b270ac0943)"/>
+                    <attribute id="TableUUID" type="guid" value="54265f8b-2621-4725-943f-967b795437af"/>
+                    <attribute id="UUID" type="guid" value="507b4767-d01c-4551-9a9a-3a84fe6971bf"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(BloodMaledict,1,0);ActionResource(SpellSlot,1,1);ActionResource(ChannelDivinity,1,0)"/>
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Name" type="LSString" value="Blood Hunter"/>
+                    <attribute id="PassivesAdded" type="LSString" value="DivineHealth"/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="54265f8b-2621-4725-943f-967b795437af"/>
+                    <attribute id="UUID" type="guid" value="e7e2b17e-5c48-4f27-8c37-3cd68903bf5a"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(BloodMaledict,1,0)"/>
+                    <attribute id="Level" type="uint8" value="4"/>
+                    <attribute id="Name" type="LSString" value="Blood Hunter"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="54265f8b-2621-4725-943f-967b795437af"/>
+                    <attribute id="UUID" type="guid" value="f47e4477-f1cb-4240-a6ff-701e21c9e12d"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(BloodMaledict,1,0);ActionResource(SpellSlot,1,1);ActionResource(SpellSlot,2,2)"/>
+                    <attribute id="Level" type="uint8" value="5"/>
+                    <attribute id="Name" type="LSString" value="Blood Hunter"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value=";AddSpells(d638d3fa-6144-4f73-a82e-d07a6cc357a9)"/>
+                    <attribute id="TableUUID" type="guid" value="54265f8b-2621-4725-943f-967b795437af"/>
+                    <attribute id="UUID" type="guid" value="279a4ded-3dd7-40c1-9abc-37a51b6f2f5e"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(BloodMaledict,1,0);ActionResource(SpellSlot,3,1)"/>
+                    <attribute id="Level" type="uint8" value="6"/>
+                    <attribute id="Name" type="LSString" value="Blood Hunter"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="54265f8b-2621-4725-943f-967b795437af"/>
+                    <attribute id="UUID" type="guid" value="924808c3-f1fc-410f-a50d-0ff1f270e861"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(BloodMaledict,1,0);ActionResource(SpellSlot,1,2)"/>
+                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="Name" type="LSString" value="Blood Hunter"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="54265f8b-2621-4725-943f-967b795437af"/>
+                    <attribute id="UUID" type="guid" value="f2090ee7-da6e-43db-9153-8fe530a73753"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(BloodMaledict,1,0)"/>
+                    <attribute id="Level" type="uint8" value="8"/>
+                    <attribute id="Name" type="LSString" value="Blood Hunter"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="54265f8b-2621-4725-943f-967b795437af"/>
+                    <attribute id="UUID" type="guid" value="f106959f-e23e-4560-813e-397f947f72b8"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(BloodMaledict,1,0);ActionResource(SpellSlot,2,3)"/>
+                    <attribute id="Level" type="uint8" value="9"/>
+                    <attribute id="Name" type="LSString" value="Blood Hunter"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(1c4a87bb-8ace-4f95-8b72-e0e56b9f653f)"/>
+                    <attribute id="TableUUID" type="guid" value="54265f8b-2621-4725-943f-967b795437af"/>
+                    <attribute id="UUID" type="guid" value="87967dbf-6f66-44aa-ae42-e9227f0f4124"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(BloodMaledict,1,0)"/>
+                    <attribute id="Level" type="uint8" value="10"/>
+                    <attribute id="Name" type="LSString" value="Blood Hunter"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="54265f8b-2621-4725-943f-967b795437af"/>
+                    <attribute id="UUID" type="guid" value="9bdf6d32-4900-485b-94fd-5bc20fcda7ed"/>
+                </node>
+				<node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="Order of the Ghostslayer"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="1492b7d2-fe1f-4c0c-a32a-35fb373980d3"/>
+                    <attribute id="UUID" type="guid" value="91b8d07f-834a-4e23-bd69-d5c489cf72ea"/>
+                </node>
+				<node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Level" type="uint8" value="2"/>
+                    <attribute id="Name" type="LSString" value="Order of the Ghostslayer"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="1492b7d2-fe1f-4c0c-a32a-35fb373980d3"/>
+                    <attribute id="UUID" type="guid" value="9e256e35-d679-4ade-877e-b0aa7fb505c2"/>
+                </node>
+				<node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Name" type="LSString" value="Order of the Ghostslayer"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(c4209fb5-15f9-46d9-a1ab-edea12816471,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="1492b7d2-fe1f-4c0c-a32a-35fb373980d3"/>
+                    <attribute id="UUID" type="guid" value="3faebb46-3ba3-443b-80a3-7fb7ec69cc26"/>
+                </node>
+				<node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Level" type="uint8" value="4"/>
+                    <attribute id="Name" type="LSString" value="Order of the Ghostslayer"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="1492b7d2-fe1f-4c0c-a32a-35fb373980d3"/>
+                    <attribute id="UUID" type="guid" value="fdcbdb3e-52c7-4ac1-b7be-8c5f1a63f33b"/>
+                </node>
+				<node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="Order of the Lycan"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="994b0d7d-5b88-47d3-8306-6a0fbabe315a"/>
+                    <attribute id="UUID" type="guid" value="82d645d5-f042-466e-87c4-e724fbe8a09c"/>
+                </node>
+				<node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Level" type="uint8" value="2"/>
+                    <attribute id="Name" type="LSString" value="Order of the Lycan"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="994b0d7d-5b88-47d3-8306-6a0fbabe315a"/>
+                    <attribute id="UUID" type="guid" value="1cb1d158-b3b3-48fa-9c13-fb2f6e75b8c6"/>
+                </node>
+				<node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Name" type="LSString" value="Order of the Lycan"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(eae2f648-2aa1-40c7-ab19-fe92611d1fc7,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="994b0d7d-5b88-47d3-8306-6a0fbabe315a"/>
+                    <attribute id="UUID" type="guid" value="c885cfa5-0b30-43f9-ad82-60ef1e7e7bb7"/>
+                </node>
+				<node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Level" type="uint8" value="4"/>
+                    <attribute id="Name" type="LSString" value="Order of the Lycan"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="994b0d7d-5b88-47d3-8306-6a0fbabe315a"/>
+                    <attribute id="UUID" type="guid" value="56ce5532-f3b2-4eab-9915-43e9e96e1788"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

@@ -1,0 +1,27 @@
+EVENTS
+
+EVENT PALADIN_CheckForDreamFlag
+VARS
+	CHARACTER:_Player
+	INT:_Count
+	INT:_PartySize
+ON
+	OnGlobalFlagSet("NIGHT_DaisyDream1")
+ACTIONS
+	IF "c1"
+		GetPlayerCount(_PartySize)
+	THEN
+		GetPlayerByIndex(_Player, _Count)
+		Set(_Count, INT:0)
+		WHILE "c1"
+			IsLessThen(_Count, _PartySize)
+		DO
+			IF "c1&c2"
+				GetPlayerByIndex(_Player, _Count)
+				IsTagged(_Player, "PALADIN")
+			THEN
+				CharacterApplyStatus(_Player,"PALADIN_TADPOLE_UNLOCKED", -1)
+			ENDIF
+			Add(_Count, INT:1)
+		ENDWHILE
+	ENDIF

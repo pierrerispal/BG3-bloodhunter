@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="50"/>
+    <region id="ClassDescriptions">
+        <node id="root">
+            <children>
+                <node id="ClassDescription">
+                    <attribute id="BaseHp" type="int32" value="10"/>
+                    <attribute id="CanLearnSpells" type="bool" value="false"/>
+                    <attribute id="CharacterCreationPose" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Blood_Hunter"/>
+                    <attribute id="Description" type="FixedString" value="Blood hunters are clever warriors driven by an unending determination to destroy evils old and new. Armed with rites of secretive blood magic and a willingness to sacrifice their own vitality and humanity for their cause, they protect the realms from the shadows — even as they remain ever vigilant against being drawn to the darkness that consumes the monsters they hunt."/>
+                    <attribute id="DisplayName" type="FixedString" value="Blood Hunter"/>
+                    <attribute id="HasGod" type="bool" value="false"/>
+                    <attribute id="HpPerLevel" type="int32" value="6"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MagicType" type="uint8" value="1"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="Blood Hunter"/>
+                    <attribute id="ParentGuid" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="2"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="54265f8b-2621-4725-943f-967b795437af"/>
+                    <attribute id="SoundMagicType" type="uint8" value="5"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="4"/>
+                    <attribute id="UUID" type="guid" value="cd001d62-e3be-4fc0-b46b-1d0a553839fd"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="6d85ab2d-5c23-498c-a61e-98f05a00177a"/>
+                        </node>
+                    </children>
+                </node>
+				<node id="ClassDescription">
+                    <attribute id="BaseHp" type="int32" value="0"/>
+                    <attribute id="CanLearnSpells" type="bool" value="false"/>
+                    <attribute id="CharacterCreationPose" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="ClassEquipment" type="FixedString" value=""/>
+                    <attribute id="Description" type="FixedString" value="The Order of the Ghostslayer is the oldest of the blood hunter orders"/>
+                    <attribute id="DisplayName" type="FixedString" value="Order of the Ghostslayer"/>
+                    <attribute id="HasGod" type="bool" value="false"/>
+                    <attribute id="HpPerLevel" type="int32" value="0"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MagicType" type="uint8" value="1"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="Ghostslayer"/>
+                    <attribute id="ParentGuid" type="guid" value="cd001d62-e3be-4fc0-b46b-1d0a553839fd"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="2"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="1492b7d2-fe1f-4c0c-a32a-35fb373980d3"/>
+                    <attribute id="SoundMagicType" type="uint8" value="5"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="4"/>
+                    <attribute id="UUID" type="guid" value="c576f6ee-f32c-4a94-99d3-4b7c20073f06"/>
+                </node>
+				<node id="ClassDescription">
+                    <attribute id="BaseHp" type="int32" value="0"/>
+                    <attribute id="CanLearnSpells" type="bool" value="false"/>
+                    <attribute id="CharacterCreationPose" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="ClassEquipment" type="FixedString" value=""/>
+                    <attribute id="Description" type="FixedString" value="The ancient curse of lycanthropy "/>
+                    <attribute id="DisplayName" type="FixedString" value="Order of the Lycan"/>
+                    <attribute id="HasGod" type="bool" value="false"/>
+                    <attribute id="HpPerLevel" type="int32" value="0"/>
+                    <attribute id="LearningStrategy" type="uint8" value="1"/>
+                    <attribute id="MagicType" type="uint8" value="1"/>
+                    <attribute id="MustPrepareSpells" type="bool" value="false"/>
+                    <attribute id="Name" type="FixedString" value="Order of the Lycan"/>
+                    <attribute id="ParentGuid" type="guid" value="cd001d62-e3be-4fc0-b46b-1d0a553839fd"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="2"/>
+                    <attribute id="ProgressionTableUUID" type="guid" value="994b0d7d-5b88-47d3-8306-6a0fbabe315a"/>
+                    <attribute id="SoundMagicType" type="uint8" value="5"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="4"/>
+                    <attribute id="UUID" type="guid" value="fcfb6975-74e3-4a41-84d2-38cbb7a535e5"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
+
+                    

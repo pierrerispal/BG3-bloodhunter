@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="50"/>
+    <region id="ProgressionDescriptions">
+        <node id="root">
+            <children>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="FixedString" value="Blood Hunter"/>
+                    <attribute id="DisplayName" type="FixedString" value="Blood Hunter"/>
+                    <attribute id="ExactMatch" type="FixedString" value=""/>
+                    <attribute id="Hidden" type="bool" value="false"/>
+                    <attribute id="ParamMatch" type="FixedString" value=""/>
+                    <attribute id="PassivePrototype" type="FixedString" value=""/>
+                    <attribute id="ProgressionId" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="ProgressionTableId" type="guid" value="54265f8b-2621-4725-943f-967b795437af"/>
+                    <attribute id="SelectorId" type="FixedString" value=""/>
+                    <attribute id="Type" type="FixedString" value="Blood Hunter"/>
+                    <attribute id="UUID" type="guid" value="8c813b9f7-6db6-450b-9dba-9645a578ff49"/>
+                </node>
+				<node id="ProgressionDescription">
+                    <attribute id="Description" type="FixedString" value="Order of the Ghostslayer"/>
+                    <attribute id="DisplayName" type="FixedString" value="Order of the Ghostslayer"/>
+                    <attribute id="ExactMatch" type="FixedString" value=""/>
+                    <attribute id="Hidden" type="bool" value="false"/>
+                    <attribute id="ParamMatch" type="FixedString" value=""/>
+                    <attribute id="PassivePrototype" type="FixedString" value=""/>
+                    <attribute id="ProgressionId" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="ProgressionTableId" type="guid" value="1492b7d2-fe1f-4c0c-a32a-35fb373980d3"/>
+                    <attribute id="SelectorId" type="FixedString" value=""/>
+                    <attribute id="Type" type="FixedString" value="Order of the Ghostslayer"/>
+                    <attribute id="UUID" type="guid" value="36f96863-ade5-4d49-a197-fc286d328304"/>
+                </node>
+				<node id="ProgressionDescription">
+                    <attribute id="Description" type="FixedString" value="Order of the Lycan"/>
+                    <attribute id="DisplayName" type="FixedString" value="Order of the Lycan"/>
+                    <attribute id="ExactMatch" type="FixedString" value=""/>
+                    <attribute id="Hidden" type="bool" value="false"/>
+                    <attribute id="ParamMatch" type="FixedString" value=""/>
+                    <attribute id="PassivePrototype" type="FixedString" value=""/>
+                    <attribute id="ProgressionId" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="ProgressionTableId" type="guid" value="994b0d7d-5b88-47d3-8306-6a0fbabe315a"/>
+                    <attribute id="SelectorId" type="FixedString" value=""/>
+                    <attribute id="Type" type="FixedString" value="Order of the Lycan"/>
+                    <attribute id="UUID" type="guid" value="8cf6f3ab-a616-461d-acce-884b1004479f"/>
+                </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="FixedString" value="Shared_ProgressionDescriptions_New_Stat_117_Description"/>
+                    <attribute id="DisplayName" type="FixedString" value="Shared_ProgressionDescriptions_New_Stat_117_DisplayName"/>
+                    <attribute id="ExactMatch" type="FixedString" value=""/>
+                    <attribute id="Hidden" type="bool" value="true"/>
+                    <attribute id="ParamMatch" type="FixedString" value=""/>
+                    <attribute id="PassivePrototype" type="FixedString" value=""/>
+                    <attribute id="ProgressionId" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="ProgressionTableId" type="guid" value="54265f8b-2621-4725-943f-967b795437af"/>
+                    <attribute id="SelectorId" type="FixedString" value=""/>
+                    <attribute id="Type" type="FixedString" value="ActionResourceOverride"/>
+                    <attribute id="UUID" type="guid" value="0d7e8c0c-732b-4e4e-a77b-b15094932a62"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

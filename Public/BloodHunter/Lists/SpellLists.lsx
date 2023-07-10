@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="49"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList">
+                    <attribute id="Spells" type="LSString" value="Target_BloodCurse_Binding"/>
+                    <attribute id="UUID" type="guid" value="1e7442ba-a4eb-4061-8dd0-c2675a29acc9"/>
+                </node>
+				<node id="SpellList">
+                    <attribute id="Spells" type="LSString" value="Target_BloodCurse_BloatedAgony"/>
+                    <attribute id="UUID" type="guid" value="3099dce7-67d5-4424-b0ec-f01027659899"/>
+                </node>
+				<node id="SpellList">
+                    <attribute id="Spells" type="LSString" value="Target_BloodCurse_BloatedAgony;Target_BloodCurse_Binding"/>
+                    <attribute id="UUID" type="guid" value="96a31721-35e0-4ca3-89b8-e2b270ac0943"/>
+                </node>
+				<node id="SpellList">
+                    <attribute id="Spells" type="LSString" value="Shout_Aid;Target_Smite_Branding;Target_LesserRestoration;Target_ProtectionFromPoison"/>
+                    <attribute id="UUID" type="guid" value="d638d3fa-6144-4f73-a82e-d07a6cc357a9"/>
+                </node>
+				<node id="SpellList">
+                    <attribute id="Spells" type="LSString" value="Target_Revivify;Shout_CrusadersMantle"/>
+                    <attribute id="UUID" type="guid" value="1c4a87bb-8ace-4f95-8b72-e0e56b9f653f"/>
+                </node>
+				<node id="SpellList">
+                    <attribute id="Spells" type="LSString" value="Target_EnsnaringStrike;Shout_SpeakWithAnimals;Target_NaturesWrath;Shout_TurnTheFaithless"/>
+                    <attribute id="UUID" type="guid" value="c4209fb5-15f9-46d9-a1ab-edea12816471"/>
+                </node>
+				<node id="SpellList">
+                    <attribute id="Spells" type="LSString" value="Target_Bane;Target_HuntersMark;Target_AbjureEnemy;Target_VowOfEmnity"/>
+                    <attribute id="UUID" type="guid" value="eae2f648-2aa1-40c7-ab19-fe92611d1fc7"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

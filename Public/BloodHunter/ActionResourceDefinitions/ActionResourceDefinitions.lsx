@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="48"/>
+    <region id="ActionResourceDefinitions">
+        <node id="root">
+            <children>
+                <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="FixedString" value="Blood Maledict"/>
+                    <attribute id="DiceType" type="uint32" value="0"/>
+                    <attribute id="DisplayName" type="FixedString" value="Blood Maledict"/>
+                    <attribute id="Error" type="FixedString" value="ActionResourceDefinitions_New_Stat_0_Error"/>
+                    <attribute id="IsSpellResource" type="bool" value="false"/>
+                    <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="Name" type="FixedString" value="BloodMaledict"/>
+                    <attribute id="PartyActionResource" type="bool" value="false"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/>
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+                    <attribute id="UUID" type="guid" value="81685243-b4b7-4abd-bdf1-9372381bad8c"/>
+                    <attribute id="UpdatesSpellPowerLevel" type="bool" value="true"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="21"/>
+    <region id="SkillLists">
+        <node id="root">
+            <children>
+                <node id="SkillList"> Blood Hunter Skills Choice
+                    <attribute id="Skills" type="LSString" value="Acrobatics, Arcana, Athletics, History, Insight, Investigation, Religion, Survival"/>
+                    <attribute id="UUID" type="guid" value="322974ff-d5ef-4379-b427-3077a2a0ad6c"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

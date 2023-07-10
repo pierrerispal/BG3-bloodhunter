@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="48"/>
+    <region id="PassiveLists">
+        <node id="root">
+            <children>
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="FightingStyle_Defense,FightingStyle_Dueling,FightingStyle_GreatWeaponFighting,FightingStyle_Protection"/>
+                    <attribute id="UUID" type="guid" value="9f3bf767-6574-40b8-ae9f-4f05ca5ae846"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

@@ -1,0 +1,22 @@
+new equipment "_Custom_Equipment"
+
+new equipment "EQP_CC_Blood_Hunter"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "ARM_ChainMail_Body"
+add equipmentgroup
+add equipment entry "ARM_Boots_Metal"
+add equipmentgroup
+add equipment entry "ARM_Helmet_Metal"
+add equipmentgroup
+add equipment entry "ARM_Shield_FlamingFist"
+add equipmentgroup
+add equipment entry "WPN_Warhammer"
+add equipmentgroup
+add equipment entry "WPN_LightCrossbow"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"

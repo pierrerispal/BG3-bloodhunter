@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="49"/>
+    <region id="Config">
+        <node id="root">
+            <children>
+                <node id="Dependencies" />
+                <node id="ModuleInfo">
+                    <attribute id="Author" type="LSWString" value="Pierrelock"/>
+                    <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
+                    <attribute id="Description" type="LSWString" value="Blood Hunter class"/>
+                    <attribute id="Folder" type="LSWString" value="BloodHunter"/>
+                    <attribute id="GMTemplate" type="FixedString" value=""/>
+                    <attribute id="LobbyLevelName" type="FixedString" value=""/>
+                    <attribute id="MD5" type="LSString" value=""/>
+                    <attribute id="MainMenuBackgroundVideo" type="FixedString" value=""/>
+                    <attribute id="MenuLevelName" type="FixedString" value=""/>
+                    <attribute id="Name" type="FixedString" value="BloodHunter"/>
+                    <attribute id="NumPlayers" type="uint8" value="4"/>
+                    <attribute id="PhotoBooth" type="FixedString" value=""/>
+                    <attribute id="StartupLevelName" type="FixedString" value=""/>
+                    <attribute id="Tags" type="LSWString" value=""/>
+                    <attribute id="Type" type="FixedString" value="Add-on"/>
+					<attribute id="UUID" type="FixedString" value="91da7ceb-5c61-4823-8336-97c34176bf6e"/>
+					<attribute id="Version" type="int32" value="1"/>
+                    <children>
+                        <node id="PublishVersion">
+                            <attribute id="Version" type="int32" value="3"/>
+                        </node>
+						<node id="Scripts">
+							<children>
+                                <node id="Script">
+                                    <attribute id="UUID" type="FixedString" value="2d4f6cc1-dfca-4fb1-b712-f3190776ee4b"/>
+                                    <children>
+                                        <node id="Parameters">
+                                            <children>
+                                                <node id="Parameter">
+                                                    <attribute id="MapKey" type="FixedString" value="HardcoreOnly"/>
+                                                    <attribute id="Type" type="int32" value="1"/>
+                                                    <attribute id="Value" type="LSString" value="0"/>
+                                                </node>
+                                            </children>
+                                        </node>
+                                    </children>
+                                </node>
+                            </children>
+                        </node>
+                        <node id="TargetModes">
+                            <children>
+                                <node id="Target">
+                                    <attribute id="Object" type="FixedString" value="Story"/>
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
